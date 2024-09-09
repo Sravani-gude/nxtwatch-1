@@ -8,7 +8,7 @@ import Header from '../Header'
 import NavigationBar from '../NavigationBar'
 import ThemeAndVideoContext from '../../context/ThemeAndVideoContext'
 import FailureView from '../FailureView'
-import GameVideoCard from '../GameVideoCard'
+import GameVideoCard from '../GamingVideoCard'
 
 import {
   GamingContainer,
